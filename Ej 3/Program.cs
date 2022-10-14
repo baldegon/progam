@@ -6,7 +6,7 @@ namespace Ej_3
     {
         static void Main(string[] args)
         {
-            float tempmin=0f, tempmax=0f, tempdiaria=0f;
+            float tempmin=0f, tempmax=0f;
             int diamin=0, diamax=0;
 
             Console.WriteLine("Registro de temperatura diaria");
